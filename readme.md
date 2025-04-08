@@ -40,5 +40,26 @@ git branch | tail -f
    main
 ```
 
-
 ```
+
+---
+
+> I want to git clone git remote repository in my laptop pc.
+> I wonder the remote repository has submoduels like the attached image.
+> How can I pull the submodules as well?
+>
+> ✅ 방법 1: 한 번에 전체 클론 + 서브모듈 초기화
+> ```bash
+> git clone --recurse-submodules https://github.com/GithubJoshuaPark/AI_Master.git
+>
+>```
+> <br>
+> ✅ 방법 2: 기존 클론 후 서브모듈 수동 초기화
+>
+> ```bash
+> git clone https://github.com/GithubJoshuaPark/AI_Master.git
+> cd AI_Master
+> git submodule init
+> git submodule update
+> ```
+
