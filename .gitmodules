@@ -1,0 +1,12 @@
+[submodule "0_AI_Master"]
+	path = 0_AI_Master
+	url = https://github.com/GithubJoshuaPark/0_AI_Master.git
+[submodule "1_cv"]
+	path = 1_cv
+	url = https://github.com/GithubJoshuaPark/1_cv.git
+[submodule "2_CNN"]
+	path = 2_CNN
+	url = https://github.com/GithubJoshuaPark/2_CNN.git
+[submodule "3_Object_detect"]
+	path = 3_Object_detect
+	url = https://github.com/GithubJoshuaPark/3_Object_detect.git
