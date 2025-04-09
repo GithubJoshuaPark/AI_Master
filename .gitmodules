@@ -10,3 +10,6 @@
 [submodule "3_Object_detect"]
 	path = 3_Object_detect
 	url = https://github.com/GithubJoshuaPark/3_Object_detect.git
+[submodule "4_RL"]
+	path = 4_RL
+	url = https://github.com/GithubJoshuaPark/4_RL.git
