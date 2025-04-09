@@ -14,7 +14,7 @@ git submodule add https://github.com/GithubJoshuaPark/0_AI_Master.git 0_AI_Maste
 git submodule add https://github.com/GithubJoshuaPark/1_cv.git 1_cv
 git submodule add https://github.com/GithubJoshuaPark/2_CNN.git 2_CNN
 git submodule add https://github.com/GithubJoshuaPark/3_Object_detect.git 3_Object_detect
-
+git submodule add https://github.com/GithubJoshuaPark/4_RL.git 4_RL
 # Add files to the staging area
 git add .
 
