@@ -13,3 +13,6 @@
 [submodule "4_RL"]
 	path = 4_RL
 	url = https://github.com/GithubJoshuaPark/4_RL.git
+[submodule "5_Transformer"]
+	path = 5_Transformer
+	url = https://github.com/GithubJoshuaPark/5_Transformer
